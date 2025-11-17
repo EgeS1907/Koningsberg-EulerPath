@@ -1,0 +1,12 @@
+# Python ara dosyaları
+__pycache__/
+*.pyc
+
+# Sanal ortam klasörü (kullanıyorsanız)
+venv/
+.venv/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
